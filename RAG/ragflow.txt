@@ -2,7 +2,7 @@ RAG Pipeline:
 Step 1:
 Data Loader
     -word
-    -pdf
+    -pdf❤️😂😂😂😂😒😒
     -.txt
 
     How? and which tool do we use for this?
