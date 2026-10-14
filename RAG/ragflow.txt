@@ -3,7 +3,7 @@ Step 1:
 Data Loader
     -word
     -pdf❤️😂😂😂😂😒😒
-    -.txt
+    -.txt 
 
     How? and which tool do we use for this?
     langchain(framework)
@@ -100,4 +100,3 @@ Step 10:
 LLM(Large Language Model)
     Tool : langchain
     - This we use to structure the output.
-    
