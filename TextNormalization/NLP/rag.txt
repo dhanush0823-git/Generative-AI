@@ -12,15 +12,17 @@ Why not LLM?
 
 RAG architecture : 
 
-1) Data loader ?
+"1) Data loader ?
 - Loading the informations from the external sources like pdf,word,text,csv.
+
 
 2) Text Normalization ?
 - Cleaning or removing unwanted data from the document.
 - This helps to reduce the tokens and make RAG model to understand the context to generate proper result.
 
+
 3) Chuncking ?
-It converts or splits the document into small parts (chuncks) 
+It converts or splits the document into small parts (chuncks) "
 
 Why Chuncking?
 - RAG model can't understand the context if load the entire document(content)
