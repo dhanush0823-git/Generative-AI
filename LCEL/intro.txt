@@ -1,0 +1,5 @@
+LCEL ?
+    - Lang Chain Expression Language.
+    - Combines Prompt + llm + parser(similar type casting) 
+        * We can Combine All this using chain -> '|'
+    - 
